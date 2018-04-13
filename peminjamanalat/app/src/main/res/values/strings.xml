@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Peminjaman Alat</string>
+    <string-array name="alat">
+        <item>HT</item>
+        <item>Megaphone</item>
+        <item>Camera</item>
+        <item>Sound System</item>
+        <item>Bendera</item>
+        <item>Lampu Tembak</item>
+
+    </string-array>
+</resources>
